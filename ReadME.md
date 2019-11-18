@@ -36,7 +36,7 @@ http://localhost/api/product/$id (Method GET- "Read one product") (Method Delete
 http://localhost/api/category
 http://localhost/api/category/add
 http://localhost/api/category/$id/edit
-http://localhost/api/category/$id (Method GET- "Read one product") (Method Delete- "Delete prodcut from Database") 
+http://localhost/api/category/$id (Method GET- "Read one Category") (Method Delete- "Delete prodcut from Database") 
 
 http://localhost/api/cart
 http://localhost/api/cart/add
